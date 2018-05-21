@@ -1,0 +1,39 @@
+body {
+    padding-top: 50px; /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
+}
+.portfolio-item {
+    margin-bottom: 25px;
+    box-shadow: inset -40px 0px #fff;
+}
+.portfolio-item:hover {
+background-color: blue;
+cursor: pointer;
+border-radius: 10px;
+}
+.img-responsive{
+    padding-left: 12px;
+    padding-top: 15px;
+}
+.footer-blurb {
+    padding: 30px 0;
+    text-align: center;
+    background-color: rgb(141, 199, 235);
+}
+.footer-blurb h3 {
+    color: midnightblue;
+    }
+.footer-blurb-item {
+    padding: 30px 0;
+    }
+.copyright {
+text-align: center;
+padding: 30px 5px;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+.page-header:hover{
+	color:blue;
+}
+	
